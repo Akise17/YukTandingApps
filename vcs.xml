@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/Akise17/YukTanding" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Akise17/YukTanding.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="B:\PNJ\ALLPROGRAM\AndroidStudio\test" />
