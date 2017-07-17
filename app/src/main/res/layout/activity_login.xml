@@ -21,9 +21,10 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="Name"
+        android:text="@string/name"
         tools:layout_editor_absoluteX="16dp"
-        tools:layout_editor_absoluteY="16dp" />
+        tools:layout_editor_absoluteY="16dp"
+        tools:ignore="LabelFor,MissingConstraints" />
 
     <EditText
         android:id="@+id/editText2"
@@ -32,6 +33,7 @@
         android:ems="10"
         android:inputType="textPassword"
         tools:layout_editor_absoluteX="16dp"
-        tools:layout_editor_absoluteY="59dp" />
+        tools:layout_editor_absoluteY="59dp"
+        tools:ignore="LabelFor,MissingConstraints" />
 
 </android.support.constraint.ConstraintLayout>
