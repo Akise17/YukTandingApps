@@ -10,8 +10,12 @@
           <option name="url" value="https://github.com/Akise17/YukTanding.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ekhiw/YukTandingApps" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\ALLPROGRAM\AndroidStudio\test" />
+    <option name="cloneParentDir" value="C:\Users\Akise\Documents\yuktanding\YukTanding Apps" />
   </component>
 </application>
